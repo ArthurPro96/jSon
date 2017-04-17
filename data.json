@@ -1,53 +1,83 @@
 {
 	  "ciudades": [{
-		             "nombre": "Soledad",
+		 "nombre": "Soledad",
                  "Jarl" : "Elisif la justa",
-                 "X" : 664,
-                 "Y" :  89
+                 "X" : 601,
+                 "Y" :  98
    },{
                  "nombre": "Carrera Blanca",
                  "Jarl" : "Balgruuf el grande",
-                 "X" : 1052,
-                 "Y" : 485
+                 "X" : 1000,
+                 "Y" : 503
    },{
                  "nombre": "Ventalia",
                  "Jarl" : "Ulfric capa de la tormenta",
-                 "X" : 1439,
-                 "Y" : 364
+                 "X" : 1488,
+                 "Y" : 373
    },{
                  "nombre": "Riften",
                  "Jarl" : "Laila la legisladora",
-                 "X" : 1616,
-                 "Y" :900
+                 "X" : 1690,
+                 "Y" :919
    },{
                  "nombre": "Markath",
                  "Jarl" : "Igmund",
-                 "X" : 278,
-                 "Y": 527
+                 "X" : 232,
+                 "Y": 500
    },{
                  "nombre": "Lucero del Alva",
                  "Jarl" : "Escaldo",
-                 "X" : 1105,
-                 "Y" :75
+                 "X" : 1056,
+                 "Y" :98
    },{
                  "nombre": "Hibernalia",
                  "Jarl" : "Korir",
-                 "X" : 1356,
+                 "X" : 1405,
                  "Y": 100
    },{
                  "nombre": "Morthal",
                  "Jarl" : "Idgrod el cuervo viejo",
-                 "X" : 278,
-                 "Y": 527
-   },{
-                 "nombre": "Hibernalia",
-                 "Jarl" : "Korir",
-                 "X" : 1356,
-                 "Y": 100
+                 "X" : 841,
+                 "Y": 266
    },{
                  "nombre": "Falkreath",
                  "Jarl" : "Siddgeir",
-                 "X" : 664,
-                 "Y" : 89
+                 "X" : 765,
+                 "Y" : 904
+   },{
+	         "nombre": "Helguen",
+                 "Jarl" : "Hadvar",
+                 "X" : 1056,
+                 "Y": 860
+   },{
+	         "nombre": "Cauce Boscoso",
+                 "Jarl" : "Lucano Valerio",
+                 "X" : 1012,
+                 "Y": 725
+   },{
+	         "nombre": "Paraje Rorick",
+                 "Jarl" : "Lucano Valerio",
+                 "X" : 597,
+                 "Y": 503
+   },{
+	         "nombre": "Puente del Dragon",
+                 "Jarl" : "Faida",
+                 "X" : 455,
+                 "Y": 180
+   },{
+	         "nombre": "Peñon de Shor",
+                 "Jarl" : "Filnjar",
+                 "X" : 1640,
+                 "Y": 795
+   },{
+	         "nombre": "Baldío de Karth",
+                 "Jarl" : "Atar",
+                 "X" : 321,
+                 "Y": 370
+   },{
+	         "nombre": "Paraje de Ivar",
+                 "Jarl" : "Klimmek",
+                 "X" : 1333,
+                 "Y": 794
 	   }]
 }
