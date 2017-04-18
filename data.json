@@ -25,7 +25,7 @@
                  "Jarl" : "Laila la legisladora",
 	         "Raza" : "Humanos Tormenta",
                  "X" : 1690,
-                 "Y" :919,
+                 "Y" :820,
 	         "Imagen" : "https://www.openprocessing.org/sketch/421362/files/Riften.png"
    },{
                  "nombre": "Markath",
@@ -60,14 +60,14 @@
                  "Jarl" : "Siddgeir",
 	         "Raza" : "Humanos Tormenta",
                  "X" : 765,
-                 "Y" : 904,
+                 "Y" : 840,
 	         "Imagen" : "https://www.openprocessing.org/sketch/421362/files/Falkreath.png"
    },{
 	         "nombre": "Helguen",
                  "Jarl" : "Hadvar",
 	         "Raza" : "Humanos",
                  "X" : 1056,
-                 "Y": 860,
+                 "Y": 810,
 	         "Imagen" : "https://www.openprocessing.org/sketch/421362/files/Helgen1.jpg"
    },{
 	         "nombre": "Cauce Boscoso",
@@ -123,7 +123,7 @@
                  "Jarl" : "Yamarz",
 	         "Raza" : "Orcos",
                  "X" : 1465,
-                 "Y": 920,
+                 "Y": 840,
 	         "Imagen" : "https://www.openprocessing.org/sketch/421362/files/Largashbur.png"
    },{
 	         "nombre": "Dushnikh Yal",
