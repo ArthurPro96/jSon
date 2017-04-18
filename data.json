@@ -16,14 +16,14 @@
    },{
                  "nombre": "Ventalia",
                  "Jarl" : "Ulfric capa de la tormenta",
-	         "Raza" : "Humanos Capas de la Tormenta",
+	         "Raza" : "Humanos Tormenta",
                  "X" : 1488,
                  "Y" : 373,
 	         "Imagen" : "https://www.openprocessing.org/sketch/421015/files/Ventalia.jpg"
    },{
                  "nombre": "Riften",
                  "Jarl" : "Laila la legisladora",
-	         "Raza" : "Humanos Capas de la Tormenta",
+	         "Raza" : "Humanos Tormenta",
                  "X" : 1690,
                  "Y" :919,
 	         "Imagen" : "https://www.openprocessing.org/sketch/421015/files/Riften.png"
@@ -37,7 +37,7 @@
    },{
                  "nombre": "Lucero del Alva",
                  "Jarl" : "Escaldo",
-	         "Raza" : "Humanos cazadores de vampiros",
+	         "Raza" : "Humanos cazadores",
                  "X" : 1056,
                  "Y" :98,
 	         "Imagen" : "https://www.openprocessing.org/sketch/421015/files/Dawmstarmain.png"
@@ -58,7 +58,7 @@
    },{
                  "nombre": "Falkreath",
                  "Jarl" : "Siddgeir",
-	         "Raza" : "Humanos Imperiales",
+	         "Raza" : "Humanos Tormenta",
                  "X" : 765,
                  "Y" : 904,
 	         "Imagen" : "https://www.openprocessing.org/sketch/421015/files/Falkreath.png"
